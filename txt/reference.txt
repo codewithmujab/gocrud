@@ -1,0 +1,2 @@
+https://codevoweb.com/create-crud-api-in-golang-using-fiber-and-gorm/
+https://v1.gorm.io/docs/models.html

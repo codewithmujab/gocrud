@@ -1,0 +1,6 @@
+0. go init mod github.com/codewirhmujab/gocrud
+1. go get github.com/gofiber/fiber/v2
+2. go get -u gorm.io/gorm
+3. go get -u gorm.io/driver/mysql
+4. go run app.go
+5. go get github.com/go-playground/validator/v10

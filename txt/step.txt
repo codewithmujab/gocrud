@@ -1,0 +1,5 @@
+1. Bikin Modelnya pake GORM
+2. Bikin Database Connection
+3. Buat Controllernya 
+4. Routing
+5. Jalankan di app.go
